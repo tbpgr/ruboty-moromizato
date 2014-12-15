@@ -2,6 +2,8 @@
 
 An Ruboty Handler + Actions to show moromizatonized text.
 
+[![Gem Version](https://badge.fury.io/rb/ruboty-moromizato.svg)](http://badge.fury.io/rb/ruboty-moromizato)
+
 [Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
 
 ## Installation
