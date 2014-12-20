@@ -1,3 +1,4 @@
+require 'ruboty'
 require "ruboty/moromizato/version"
 require "ruboty/handlers/moromizato"
 
