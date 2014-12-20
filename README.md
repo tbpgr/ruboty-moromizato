@@ -3,6 +3,8 @@
 An Ruboty Handler + Actions to show moromizatonized text.
 
 [![Gem Version](https://badge.fury.io/rb/ruboty-moromizato.svg)](http://badge.fury.io/rb/ruboty-moromizato)
+[![Build Status](https://travis-ci.org/tbpgr/ruboty-moromizato.png?branch=master)](https://travis-ci.org/tbpgr/ruboty-moromizato)
+[![Coverage Status](https://coveralls.io/repos/tbpgr/ruboty-moromizato/badge.png)](https://coveralls.io/r/tbpgr/ruboty-moromizato)
 
 [Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
 
