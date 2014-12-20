@@ -28,8 +28,7 @@ module Ruboty
         def convert
           encoded_text = message['text'].force_encoding("UTF-8")
           encoded_text.each_char.map do |e|
-            next e unless Moromizato::MOROMIZATO_RULES.key?(e)
-            Moromizato::MOROMIZATO_RULES[e]
+            Moromizato::MOROMIZATO_RULES[e]||e
           end.join
         end
       end
