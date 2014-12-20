@@ -1,4 +1,4 @@
-require "ruboty/moromizato/actions/convert"
+require 'ruboty/moromizato/actions/convert'
 
 module Ruboty
   module Handlers

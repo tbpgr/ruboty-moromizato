@@ -26,7 +26,7 @@ module Ruboty
         private
 
         def convert
-          encoded_text = message[:text].force_encoding("UTF-8")
+          encoded_text = message[:text].force_encoding('UTF-8')
           encoded_text.each_char
                       .map { |e|Moromizato::MOROMIZATO_RULES[e] || e }
                       .join

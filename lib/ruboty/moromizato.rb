@@ -1,6 +1,6 @@
 require 'ruboty'
-require "ruboty/moromizato/version"
-require "ruboty/handlers/moromizato"
+require 'ruboty/moromizato/version'
+require 'ruboty/handlers/moromizato'
 
 module Ruboty
   module Moromizato
