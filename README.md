@@ -1,6 +1,6 @@
 # Ruboty::Moromizato
 
-An Ruboty Handler + Actions to show moromizatonized text.
+A Ruboty Handler + Actions to show moromizatonized text.
 
 [![Gem Version](https://badge.fury.io/rb/ruboty-moromizato.svg)](http://badge.fury.io/rb/ruboty-moromizato)
 [![Build Status](https://travis-ci.org/tbpgr/ruboty-moromizato.png?branch=master)](https://travis-ci.org/tbpgr/ruboty-moromizato)
